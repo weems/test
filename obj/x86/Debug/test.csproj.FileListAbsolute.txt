@@ -1,0 +1,15 @@
+C:\Users\tests\AppData\Local\Temporary Projects\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tests\AppData\Local\Temporary Projects\test\bin\Debug\test.exe
+C:\Users\tests\AppData\Local\Temporary Projects\test\bin\Debug\test.pdb
+C:\Users\tests\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.exe
+C:\Users\tests\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.pdb
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\bin\Debug\test.exe
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\bin\Debug\test.pdb
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.exe
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.pdb
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\bin\Debug\test.exe.manifest
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\bin\Debug\test.application
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.TrustInfo.xml
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.exe.manifest
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.application

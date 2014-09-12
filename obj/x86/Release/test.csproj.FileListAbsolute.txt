@@ -1,0 +1,10 @@
+C:\Users\tests\AppData\Local\Temporary Projects\test\bin\Release\test.exe
+C:\Users\tests\AppData\Local\Temporary Projects\test\bin\Release\test.pdb
+C:\Users\tests\AppData\Local\Temporary Projects\test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\tests\AppData\Local\Temporary Projects\test\obj\x86\Release\test.exe
+C:\Users\tests\AppData\Local\Temporary Projects\test\obj\x86\Release\test.pdb
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\obj\x86\Release\test.exe
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\obj\x86\Release\test.pdb
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\bin\Release\test.exe
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\bin\Release\test.pdb
+C:\Users\tests\documents\visual studio 2010\Projects\test\test\obj\x86\Release\ResolveAssemblyReference.cache
